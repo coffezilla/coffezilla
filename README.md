@@ -1,11 +1,11 @@
 ## I'm a web developer, a teacher and a book lover!!
 
-- Hi there, i'm Renato Santos - aka @coffezilla
-- I'm interested in React JS development and React Native projects using modern web development tools and languages.
-- I'm currently learning about NodeJS, MongoDB and new React Native technics for faster development and better code quality.
-- I'm looking to collaborate on ReactJS and React Native components that make the development faster for all devs from the community.
-- 2022 Goals: Improve my english language skills and contribute more to the dev community with content.
-- Fun Fact: Huge fan of face-to-face talks and Sekiro :)
+- 😄 Hi there, i'm Renato Santos - aka @coffezilla
+- ✋ I'm interested in React JS development and React Native projects using modern web development tools and languages.
+- 📓 I'm currently learning about NodeJS, MongoDB and new React Native technics for faster development and better code quality.
+- 🤝 I'm looking to collaborate on ReactJS and React Native components that make the development faster for all devs from the community.
+- 🏆 2022 Goals: Improve my english language skills and contribute more to the dev community with content.
+- 🌟 Fun Fact: Huge fan of face-to-face talks and Sekiro :)
 
 ## Commercial projects
 
