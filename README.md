@@ -12,7 +12,7 @@
 - StackOverflow
 
 ## Languages and Tools
-![alt text]( https://www.bhxsites.com.br/github/logos/bootstrap_result_result.png)
+![alt text]( https://www.bhxsites.com.br/github/logos/bootstrap_result.png)
 ![alt text]( https://www.bhxsites.com.br/github/logos/css_result.png)
 ![alt text]( https://www.bhxsites.com.br/github/logos/cypress_result.png)
 ![alt text]( https://www.bhxsites.com.br/github/logos/docker_result.png)
