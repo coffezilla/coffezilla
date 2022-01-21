@@ -20,7 +20,7 @@
 
 - [eFut Manager](https://efm.bhxsites.com.br/landpage): Free Soccer Manager game with 100+ teams, 5000+ players and lots of tournaments. Create your free account and start to manager some team to start you path in order to win all the trophies.
 - [eFut Manager app](https://play.google.com/store/apps/details?id=efutmanagerv.com): React Native app for Android and iOS to follow the matches, teams and stats of the eFut Manager web game.
-- Stuffs app: Social media app in React Native for people who likes to post images of collections and stuffs for review.
+- [Stuffs App](https://play.google.com/store/apps/details?id=stuffs.bhxsites.com): Social media app in React Native for people who likes to post images of collections and stuffs for review.
 - [Girassol app](https://play.google.com/store/apps/details?id=girassol.bhxsites.com): React Native app with lots and lots of motivation messages.
 
 ## Open Source projects
