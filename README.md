@@ -51,7 +51,7 @@
 - [Google Play](https://play.google.com/store/apps/developer?id=BHX+Sites&hl=pt)
 - [Github](https://github.com/coffezilla)
 - [StackOverflow](https://stackoverflow.com/users/7178355/coffezilla)
-- [Medium - Articles](https://medium.com/@coffezilla)
+- [Medium - Articles](https://coffezilla.medium.com/)
 - [Linkedin](https://www.linkedin.com/in/renatojs/)
 
 
