@@ -5,7 +5,7 @@
 - 📓 I'm currently learning about NodeJS, MongoDB and new React Native technics for faster development and better code quality.
 - 🤝 I'm looking to collaborate on ReactJS and React Native components that make the development faster for all devs from the community.
 - 🏆 2022 Goals: Improve my english language skills and contribute more to the dev community with content.
-- 🌟 Fun Fact: Huge fan of face-to-face talks and Sekiro :)
+- 🌟 Fun Fact: Dan Brown's book and Souls game fan :D
 
 ## Commercial projects
 
