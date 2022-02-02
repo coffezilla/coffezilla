@@ -26,7 +26,7 @@
 ## Open Source projects
 
 - [reactn-auth](https://github.com/coffezilla/reactn-auth): React Native authentication with JWT + PHP backend and React Native Navigation.
-- [api-mortal-kombat-xi](https://github.com/coffezilla/api-mortal-kombat-xi): Api MongoDB / Nodejs to organize Mortal Kombat XI moveset for all the characters.
+- [api-mortal-kombat-xi](https://github.com/coffezilla/api-mortal-kombat-xi): Api MongoDB / Nodejs / Docker to organize Mortal Kombat XI moveset for all the characters.
 - [reactn-validation-form](https://github.com/coffezilla/reactn-validation-form): Simple validator for React Native projects. Radiobox, Checkbox and Switches implementation.
 - [reactn-pagination](https://github.com/coffezilla/reactn-pagination): Typescript React Native component to get lots and lots of json content with auto pagination and autoload with scroll to the bottom.
 - [reactn-form-elements](https://github.com/coffezilla/reactn-form-elements): Simple form elements components like input text, input masks, checkbox, radiobox, textarea and switch to use in React Native forms.
