@@ -17,7 +17,7 @@
 - [onStore App](https://www.bhxsites.com.br/aplicativo-de-venda): Android and iOS app integrated with onStore X e-commerce websites. A catalog of all the products for costumer.
 
 ## Fun personal projects
-
+- [Gamer Companion](https://gamer-companion.bhxsites.com.br/): A web support for gamers who needs something to help them throughout their game play. Project using MongoDB + NodeJS + ReactJS + Typescript. Api Restful running at Heroku.
 - [Stuffs app](https://play.google.com/store/apps/details?id=stuffs.bhxsites.com): Social media app in React Native for people who likes to post images of collections and stuffs to make reviews.
 - [Girassol app](https://play.google.com/store/apps/details?id=girassol.bhxsites.com): React Native app with lots and lots of motivation messages for you.
 - [eFut Manager](https://efm.bhxsites.com.br/landpage): Free Soccer Manager game with 100+ teams, 5000+ players and lots of tournaments. Create your free account and start to manager some team to start you path in order to win all the trophies.
