@@ -1,27 +1,27 @@
-# I'm a Web & React Native developer, entrepreneur and a book lover!!
+# I'm a FullStack developer, React and Rails entusiast and a book lover!
 
-- 😄 Hi there, i'm Renato Santos - aka @coffezilla
-- ✋ I'm interested in React JS development and React Native projects using modern web development tools and languages.
-- 📓 I'm currently learning about NodeJS, MongoDB and new React Native technics for faster development and better code quality.
-- 🤝 I'm looking to collaborate on ReactJS and React Native components that make the development faster for all devs from the community.
-- 🏆 2022 Goals: Improve my english language skills and contribute more to the dev community with content.
+- 😄 Hi there, I'm Renato Santos - aka @coffezilla
+- ✋ I'm interested in Fullstack development focused on modern web development tools and languages.
+- 📓 I'm currently learning about Ruby on Rails, Java and new development technics for a faster development and better code quality.
+- 🤝 I'm looking to collaborate on Ruby on Rails, Python, ReactJS and React Native projects that improves people's live.
+- 🏆 2025 Goals: Improve my undestanting of development and maintenance of high demanding softwares.
 - 🌟 Fun Fact: Dan Brown's book and Souls game fan :D
 
 ## Commercial projects
 
-- [onGo](https://www.bhxsites.com.br/atendimento-para-site): Web chat with mobile integration for websites and e-commerce. Simples chat for small business owners that can replace the Whatsapp/Telegram dependency. Using HTTP protocols for really cheap implementation for shared hosts.
-- [onPeople](https://www.bhxsites.com.br/sistema-disparo-de-email): A simple campaign e-mail sender in PHP using cron jobs with website integration for everyone. Create your e-mail very easily, schedule it to send any time and build your e-mail costumers base with a simple name + e-mail form.
-- [onPoster](https://www.bhxsites.com.br/organizador-posts-social-media): Social media and SEO content organizer. Organize all your social posts and create posts and text content for web that has better SEO quality. Very useful for approve content before post and get everything in one place for small team of social post creators.
-- [onStore X](https://www.bhxsites.com.br/criar-loja-virtual-bh): E-commerce platform made for small business owners with focus in SEO and Pagseguro integration. Open your new store and sell your stuffs to everyone with build-in features like coupon creator, custom products, stock and user organizer and much more.
-- [onTrack](https://www.bhxsites.com.br/gerenciamento-de-produtos): Web platform for store products, user and orders management. Integrated to onStore X.
-- [onStore App](https://www.bhxsites.com.br/aplicativo-de-venda): Android and iOS app integrated with onStore X e-commerce websites. A catalog of all the products for costumer.
+- onGo: Web chat with mobile integration for websites and e-commerce. Simples chat for small business owners that can replace the Whatsapp/Telegram dependency. Using HTTP protocols for really cheap implementation for shared hosts.
+- onPeople: A simple campaign e-mail sender in PHP using cron jobs with website integration for everyone. Create your e-mail very easily, schedule it to send any time and build your e-mail costumers base with a simple name + e-mail form.
+- onPoster: Social media and SEO content organizer. Organize all your social posts and create posts and text content for web that has better SEO quality. Very useful for approve content before post and get everything in one place for small team of social post creators.
+- onStore X: E-commerce platform made for small business owners with focus in SEO and Pagseguro integration. Open your new store and sell your stuffs to everyone with build-in features like coupon creator, custom products, stock and user organizer and much more.
+- onTrack: Web platform for store products, user and orders management. Integrated to onStore X.
+- onStore App: Android and iOS app integrated with onStore X e-commerce websites. A catalog of all the products for costumer.
 
 ## Fun personal projects
-- [Gamer Companion](https://gamer-companion.bhxsites.com.br/): A web support for gamers who needs something to help them throughout their game play. Project using MongoDB + NodeJS + ReactJS + Typescript. Api Restful running at Heroku.
-- [Stuffs app](https://play.google.com/store/apps/details?id=stuffs.bhxsites.com): Social media app in React Native for people who likes to post images of collections and stuffs to make reviews.
-- [Girassol app](https://play.google.com/store/apps/details?id=girassol.bhxsites.com): React Native app with lots and lots of motivation messages for you.
-- [eFut Manager](https://efm.bhxsites.com.br/landpage): Free Soccer Manager game with 100+ teams, 5000+ players and lots of tournaments. Create your free account and start to manager some team to start you path in order to win all the trophies.
-- [eFut Manager app](https://play.google.com/store/apps/details?id=efutmanagerv.com): React Native app for Android and iOS to follow matches, teams and stats from the eFut Manager web game.
+- Gamer Companion: A web support for gamers who needs something to help them throughout their game play. Project using MongoDB + NodeJS + ReactJS + Typescript. Api Restful running at Heroku.
+- Stuffs app: Social media app in React Native for people who likes to post images of collections and stuffs to make reviews.
+- Girassol app: React Native app with lots and lots of motivation messages for you.
+- eFut Manager: Free Soccer Manager game with 100+ teams, 5000+ players and lots of tournaments. Create your free account and start to manager some team to start you path in order to win all the trophies.
+- eFut Manager app: React Native app for Android and iOS to follow matches, teams and stats from the eFut Manager web game.
 
 ## Open Source projects
 
@@ -48,37 +48,9 @@
 
 ## Find me:
 
-- [Web site](https://www.bhxsites.com.br)
+- [Linkedin](https://www.linkedin.com/in/renatojs/)
 - [Google Play](https://play.google.com/store/apps/developer?id=BHX+Sites&hl=pt)
 - [Github](https://github.com/coffezilla)
 - [StackOverflow](https://stackoverflow.com/users/7178355/coffezilla)
 - [Medium - Articles](https://coffezilla.medium.com/)
-- [Linkedin](https://www.linkedin.com/in/renatojs/)
 
-
-## Languages and Tools
-![alt text]( https://www.bhxsites.com.br/github/logos/bootstrap_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/css_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/cypress_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/docker_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/eslint_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/expo_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/git_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/github_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/html_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/javascript_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/mac_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/mobile_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/mysql_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/nodejs_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/photoshop_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/php_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/reactjs_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/sass_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/sketch_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/sublime_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/tailwind_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/terminal_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/typescript_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/vscode_result.png)
-![alt text]( https://www.bhxsites.com.br/github/logos/webpack_result.png)
