@@ -1,22 +1,21 @@
 # I'm a Software engineer developer from Brazil!
 
-👋 Hi there, I'm Renato Santos — also known as @coffezilla.
-🚀 I'm passionate about building modern, efficient projects that have a significant impact on people's lives.
-🧑‍💼 As a tech lead, I possess strong leadership skills and project management experience in building, implementing, and maintaining projects.
-💻 My current focus is on working with Ruby on Rails, ReactJS/NextJS, and PostgreSQL using TDD and modern development techniques.
-🛠️ I have been developing solutions for the past 8 years, with hands-on experience in PHP/Laravel, NodeJS/Express, VueJS, and Python/Flask.
-🎨 Before becoming a developer, I worked as a Web Designer specializing in UX/UI. I have experience creating highly effective interfaces using usability principles.
-💸 I am currently employed at a financial technology company in the Peer-to-Peer lending market (a fintech Start Up), while also maintaining personal projects and colaborating with others.
-🎯 My goal is to deepen my knowledge in Rails, Microservices, and Infrastructure to better support my team as a senior developer and tech lead.
-📚 Fun Fact: I'm a fan of Dan Brown's books and Souls games! 😄
-
+- 👋 Hi there, I'm Renato Santos — also known as @coffezilla.
+- 🚀 I'm passionate about building modern, efficient projects that have a significant impact on people's lives.
+- 🧑‍💼 As a tech lead, I possess strong leadership skills and project management experience in building, implementing, and maintaining projects.
+- 💻 My current focus is on working with Ruby on Rails, ReactJS/NextJS, and PostgreSQL using TDD and modern development techniques.
+- 🛠️ I have been developing solutions for the past 8 years, with hands-on experience in PHP/Laravel, NodeJS/Express, VueJS, and Python/Flask.
+- 🎨 Before becoming a developer, I worked as a Web Designer specializing in UX/UI. I have experience creating highly effective interfaces using usability principles.
+- 💸 I am currently employed at a financial technology company in the Peer-to-Peer lending market (a fintech Start Up), while also maintaining personal projects and colaborating with others.
+- 🎯 My goal is to deepen my knowledge in Rails, Microservices, and Infrastructure to better support my team as a senior developer and tech lead.
+- 📚 Fun Fact: I'm a fan of Dan Brown's books and Souls games! 😄
 
 ## Current active projects
-- meLead:
-- English Spelling:
-- Efut Manager Deluxe
-- App Trackier
-- App TokaBook
+- meLead: A web app to manage leads from paid marketing campaigns for a sells team
+- English Spelling: An to practice spelling in english anywhere and everywhere
+- Efut Manager Deluxe: A web game to manage your soccer team and beat others
+- App Trackier: This is a web app to listen to music but, instead of the whole instruments, you can pick and choose the instruments that you want in real time
+- App TokaBook: Listen to audiobooks anywhere. This app propose is to create the best experience as possible in order to enjoy an audio book.
 
 ## Personal Legacy projects
 - onGo: Web chat with mobile integration for websites and e-commerce. Simples chat for small business owners that can replace the Whatsapp/Telegram dependency. Using HTTP protocols for really cheap implementation for shared hosts.
@@ -33,7 +32,7 @@
 - eFut Manager: Free Soccer Manager game with 100+ teams, 5000+ players and lots of tournaments. Create your free account and start to manager some team to start you path in order to win all the trophies.
 - eFut Manager app: React Native app for Android and iOS to follow matches, teams and stats from the eFut Manager web game.
 
-## Open Source projects
+## Open Source personal projects
 
 - [reactn-auth](https://github.com/coffezilla/reactn-auth): React Native authentication with JWT + PHP backend and React Native Navigation.
 - [docker-mongo-api](https://github.com/coffezilla/docker-mongo-api): Boilerplate for projects using API MongoDB / Nodejs / Docker.
