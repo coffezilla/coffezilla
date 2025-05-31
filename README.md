@@ -1,14 +1,24 @@
-# I'm a FullStack developer, React and Rails entusiast and a book lover!
+# I'm a Software engineer developer from Brazil!
 
-- 😄 Hi there, I'm Renato Santos - aka @coffezilla
-- ✋ I'm interested in Fullstack development focused on modern web development tools and languages.
-- 📓 I'm currently learning about Ruby on Rails, Java and new development technics for a faster development and better code quality.
-- 🤝 I'm looking to collaborate on Ruby on Rails, Python, ReactJS and React Native projects that improves people's live.
-- 🏆 2025 Goals: Improve my undestanting of development and maintenance of high demanding softwares.
-- 🌟 Fun Fact: Dan Brown's book and Souls game fan :D
+👋 Hi there, I'm Renato Santos — also known as @coffezilla.
+🚀 I'm passionate about building modern, efficient projects that have a significant impact on people's lives.
+🧑‍💼 As a tech lead, I possess strong leadership skills and project management experience in building, implementing, and maintaining projects.
+💻 My current focus is on working with Ruby on Rails, ReactJS/NextJS, and PostgreSQL using TDD and modern development techniques.
+🛠️ I have been developing solutions for the past 8 years, with hands-on experience in PHP/Laravel, NodeJS/Express, VueJS, and Python/Flask.
+🎨 Before becoming a developer, I worked as a Web Designer specializing in UX/UI. I have experience creating highly effective interfaces using usability principles.
+💸 I am currently employed at a financial technology company in the Peer-to-Peer lending market (a fintech Start Up), while also maintaining personal projects and colaborating with others.
+🎯 My goal is to deepen my knowledge in Rails, Microservices, and Infrastructure to better support my team as a senior developer and tech lead.
+📚 Fun Fact: I'm a fan of Dan Brown's books and Souls games! 😄
 
-## Commercial projects
 
+## Current active projects
+- meLead:
+- English Spelling:
+- Efut Manager Deluxe
+- App Trackier
+- App TokaBook
+
+## Personal Legacy projects
 - onGo: Web chat with mobile integration for websites and e-commerce. Simples chat for small business owners that can replace the Whatsapp/Telegram dependency. Using HTTP protocols for really cheap implementation for shared hosts.
 - onPeople: A simple campaign e-mail sender in PHP using cron jobs with website integration for everyone. Create your e-mail very easily, schedule it to send any time and build your e-mail costumers base with a simple name + e-mail form.
 - onPoster: Social media and SEO content organizer. Organize all your social posts and create posts and text content for web that has better SEO quality. Very useful for approve content before post and get everything in one place for small team of social post creators.
@@ -49,7 +59,6 @@
 ## Find me:
 
 - [Linkedin](https://www.linkedin.com/in/renatojs/)
-- [Google Play](https://play.google.com/store/apps/developer?id=BHX+Sites&hl=pt)
 - [Github](https://github.com/coffezilla)
 - [StackOverflow](https://stackoverflow.com/users/7178355/coffezilla)
 - [Medium - Articles](https://coffezilla.medium.com/)
