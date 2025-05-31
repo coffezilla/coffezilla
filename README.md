@@ -4,9 +4,9 @@
 - 🚀 I'm passionate about building modern, efficient projects that have a significant impact on people's lives.
 - 🧑‍💼 As a tech lead, I possess strong leadership skills and project management experience in building, implementing, and maintaining projects.
 - 💻 My current focus is on working with Ruby on Rails, ReactJS/NextJS, and PostgreSQL using TDD and modern development techniques.
-- 🛠️ I have been developing solutions for the past 8 years, with hands-on experience in PHP/Laravel, NodeJS/Express, VueJS, and Python/Flask.
+- 🛠️ I have been developing solutions for the past 8 years, with hands-on experience in Ruby on Rails, PHP/Laravel, NodeJS/Express, VueJS, and Python/Flask/Pandas.
 - 🎨 Before becoming a developer, I worked as a Web Designer specializing in UX/UI. I have experience creating highly effective interfaces using usability principles.
-- 💸 I am currently employed at a financial technology company in the Peer-to-Peer lending market (a fintech Start Up), while also maintaining personal projects and colaborating with others.
+- 💸 I am currently employed at a financial technology company (called M3 Lending) in the Peer-to-Peer lending market (a fintech Start Up), while also maintaining personal projects and colaborating with others.
 - 🎯 My goal is to deepen my knowledge in Rails, Microservices, and Infrastructure to better support my team as a senior developer and tech lead.
 - 📚 Fun Fact: I'm a fan of Dan Brown's books and Souls games! 😄
 
